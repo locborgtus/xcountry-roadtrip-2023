@@ -12,7 +12,9 @@ The route hits the 4 outermost points of the USA and through Canada:
 * Northeastern Maine
 * Seattle, WA
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe>
+
+We are relatively experienced EV road trippers. We have over 40,000 roadtrip miles in the last 3 years in another EV, a 2019 Model 3 Standard Range. We live in Los Angeles, and have road tripped to places such as Portland OR, Austin TX, and Washington DC in that car.
 
 ## Car
 
