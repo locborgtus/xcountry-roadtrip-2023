@@ -1,8 +1,10 @@
 # A Father-Son, 12,000 Mile EV Road Trip Across the USA
 
+## Context
+
 ## Car
 
-![car at ft williams](/assets/images/car_ftwilliams.jpeg)
+![car at ft williams](assets/images/car_ftwilliams.jpeg)
 
 ## Driving
 
