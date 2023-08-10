@@ -1,5 +1,3 @@
-# A Father-Son, 12,000 Mile EV Road Trip Across the USA
-
 ## Context
 
 ## Car
