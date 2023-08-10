@@ -1,17 +1,15 @@
-# A Father-Son, 11,000 Mile EV Road Trip to the Outer Reaches of the USA
+# Context
 
-## Context
-
-## Car
+# Car
 
 ![car at ft williams](/assets/images/car_ftwilliams.jpeg)
 
-## Driving
+# Driving
 
-## Charging & Range
+# Charging & Range
 
-## EV Camping
+# EV Camping
 
-## Travel
+# Travel
 
-## Final Thoughts
+# Final Thoughts
