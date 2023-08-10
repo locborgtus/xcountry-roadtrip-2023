@@ -1,5 +1,5 @@
 # Site Settings
-theme:                   : cayman
+theme:                   : "cayman"
 locale                   : "en-US"
 title                    : "Father-Son Road Trip Across the US"
 title_separator          : "-"
