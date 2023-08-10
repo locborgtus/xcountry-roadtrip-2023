@@ -18,7 +18,15 @@ We are relatively experienced EV road trippers. We have over 40,000 roadtrip mil
 
 ## Car
 
-![car at ft williams](assets/images/car_ftwilliams.jpeg)
+This trip was done in a 2023 Tesla Model Y Performance (MYP) w/ standard AutoPilot and HW4. The car was stock except:
+
+* Replaced the wheels for efficiency: 21” Uberturbines with 19” Gemini 
+* Custom wheel covers
+* Mud flaps
+
+| ![car at ft williams](assets/images/car_ftwilliams.jpeg) |
+|:--:| 
+| *Car charging at a public charger in Thunder Bay, ON* |
 
 ## Driving
 
