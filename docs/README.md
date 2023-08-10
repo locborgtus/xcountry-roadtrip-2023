@@ -30,6 +30,21 @@ This trip was done in a 2023 Tesla Model Y Performance (MYP) w/ standard AutoPil
 
 ## Driving
 
+The trip was divided into 6 legs, which are:
+
+* Leg 1 - coast to coast: Los Angeles, CA to Key West, FL (3000 miles)
+* Leg 2 - eastern seaboard: Key West, FL to New York City (1500 miles)
+* Leg 3 - New England to French Canada: New York City to Quebec, QC (1000 miles)
+* Leg 4 - across Canada: Quebec, QC to Winnipeg, MB (2000 miles)
+* Leg 5 - northwestern US: Winnipeg, MB to Seattle, WA (1500 miles)
+* Leg 6 - western seaboard: Seattle, WA to Los Angeles, CA (1500 miles)
+
+We do between 400 - 600 miles a day, with some off days where we visit cities on foot. The MYP was comfortable over long distances. Compared to my M3, the ride was smoother and visibility was better. The extra room in the MYP allowed us to carry more gear. However, the stability, handling, and efficiency was better in the M3.
+
+AutoPilot did about 70% of the driving and was a huge help over a long trip. In places like west Texas and Montana, I can be on AP for almost the entire way. Offloading the cognitive focus to AutoPilot allowed me to cover more distances with less fatigue and able to carry better conversations with my son. AutoPilot made this trip possible.
+
+The MYP is efficient. My efficiency ranges from 275 - 300 W / mile, depending on the speed. This is about 10% less efficient than my Model 3 SR. For the most part, I stayed within 70 - 75 mph. Efficiency drops steeply in the MYP after 75 mph, so I avoid speeding.
+
 ## Charging & Range
 
 ## EV Camping
