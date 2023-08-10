@@ -75,4 +75,12 @@ Using PlugShare, we can usually find free, public L2 chargers to camp overnight.
 
 ## Travel
 
+We made it a priority to visit the cities on the route. After all, America is a diverse country of rural, urban, and suburban areas.
+
+We took advantage of public transit in large cities such as NYC and DC. The idea is to find a public transit parking with public L2 charging and park there. Then we hop onto the public transit, site see for the day, and come back to the car with a significant charge. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration.
+
+<pleasant surprise through wanderlust, like discovering a festival, or discovering a restaurant gem, or stumbling on something historically significant>
+
+I have other travel tips as well. But seeing this is an EV blog, I’ll center it around the car.
+
 ## Final Thoughts
