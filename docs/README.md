@@ -47,6 +47,20 @@ The MYP is efficient. My efficiency ranges from 275 - 300 W / mile, depending on
 
 ## Charging & Range
 
+We used only Superchargers and public L2 chargers (see EV Camping section below). We typically charge 2-3 times a day, maybe 1 more on really long days.
+
+Let me make this clear: there was virtually no range anxiety over the trip. The Supercharger infrastructure along established routes is very mature, and range anxiety is a thing of the past. Simply punch in your destination, and let the navigation plan your charge stops. Follow recommended charging stops, adhere to speed limits, and you’re good to go.
+
+So, let’s dispel the EV charging availability myth: An EV can circumnavigate the US easily, today.
+
+The only time I had range anxiety was in North Dakota, where 1) I didn’t follow the recommended route and 2) I went over the speed limit. In that case, I arrived with 3% which is too close for my comfort, especially in a rural area where chargers are sparse. There was also a time when weather took out power for a town, and the Supercharger was also down. Power was restored in 20 minutes, and chargers were back up.
+
+Let’s also dispel the myth for a 500-mile range EV. Personally, the limiting factor is my body, not the car. On a full charge on the highway, the MYP can go 3 hours before the next charge. I don’t want to drive 3 hours without stretching my legs and using the restroom (I can, but it’s tiring and not fun). We also find it interesting to drive into a small town with a Supercharger and experience the locale. So, personally, a 300-mile range EV is enough for me.
+
+Charging costs can be significant. A rough, back-of-napkin math shows that Supercharging costs similar to driving an efficient hybrid like a Prius or Camry Hybrid. Charging costs can also differ wildly across Superchargers, between $0.27 to $0.46 a kWh. We usually look ahead and check the rates along the route to optimize cost.
+
+We always take advantage of public L2 chargers when we sightsee. If available, this can really help improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
+
 ## EV Camping
 
 ## Travel
