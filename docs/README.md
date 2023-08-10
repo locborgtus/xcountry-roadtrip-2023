@@ -63,6 +63,16 @@ We always take advantage of public L2 chargers when we sightsee. If available, t
 
 ## EV Camping
 
+EV camping is sleeping in the car and using the EV’s AC to maintain temperature.
+
+The Model Y (or any EV) is fantastic for EV camping. We put the 2 rear seats down, and put bedding over it. Camp Mode keeps the AC on overnight and maintains a comfortable environment for a good sleep. If we were in an ICE car, the engine would idle the entire night, ticking loudly, and burning fuel. The MYP is quiet and efficient, using only 1% per hour in Camp Mode. The screen also keeps us entertained before bed with Disney+, Netflix, and YouTube. My son had a great time.
+
+We camped in the car for nearly the entire trip. For over 10,000 miles, we camped in the car. We only stayed in a hotel after picking up my wife and daughter in the last leg in Seattle with about 1,500 miles remaining on the trip. With EV camping, we reduced our travel budget by 60% from $300 to $125 per day.
+
+The biggest problem with EV camping is identifying a good locations. My son and I developed a ranking process using 20+ criteria to rate a location. We would browse PlugShare and rank the chargers for EV camping. These criteria varies between working chargers and security, to creature-comfort things like having trash cans, restrooms, and benches. The general conclusion is this: the EV charging infrastructure is mature to ensure drivers won’t be stranded, but we are far, far away from a good EV camping user experience.
+
+Using PlugShare, we can usually find free, public L2 chargers to camp overnight. However, the site quality is hit and miss. Typically, we’ve had good luck with parks and libraries. But some areas have poor public EV charging infrastructure (looking at you, Ottawa and Montana). With an overnight L2 charger, we can wake up with 70% - 100% running Camp Mode all night. We estimate that camping at a free public L2 charger saves us $20 per night and 30 minutes to visit a charger.
+
 ## Travel
 
 ## Final Thoughts
