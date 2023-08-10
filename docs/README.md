@@ -84,3 +84,9 @@ We took advantage of public transit in large cities such as NYC and DC. The idea
 I have other travel tips as well. But seeing this is an EV blog, I’ll center it around the car.
 
 ## Final Thoughts
+
+<Father and son bonding. I learned about my son, and I hope my son learned about me too. I’m an immigrant with a completely different upbringing my son is experiencing, but I hope the diversity in thoughts would help him.>
+
+<EVs are viable for roadtrips. In fact, the combination of EV camping, autopilot, and reliability, I would argue EVs are preferred. EVs enhance the great American roadtrip>
+
+<Economically effective way to see the country. Flying and staying at hotels would be cost prohibitive. Plus, you get to wanderlust and get pleasantly surprised>
