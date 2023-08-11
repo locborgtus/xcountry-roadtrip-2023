@@ -1,7 +1,7 @@
 
 ## Context
 
-I was recently laid-off from my tech job. I realized that amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? My son is interested in geography and is an EV enthusiast like myself, so we decided to do a month-long, great American summer roadtrip while we have the chance.
+I was recently laid-off from my tech job. Amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? My son is interested in geography and is an EV enthusiast like myself, so we decided to do a month-long, great American summer roadtrip while we have the chance.
 
 A good friend reminded me that, after all, my son "will only be 12 years old once".
 
