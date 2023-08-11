@@ -1,11 +1,11 @@
 
 ## Introduction
 
-I was recently laid-off from my tech job. Amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? My son is interested in geography and is an EV enthusiast like myself, so we decided to do a month-long, great American summer roadtrip while we have the chance.
+I was recently laid-off from my tech job. Amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? My son is interested in geography and US history. He is also an EV enthusiast like myself. Thus we decided to do a month-long, great American summer roadtrip while we have the opportunity.
 
 A good friend reminded me that, after all, my son "will only be 12 years old once".
 
-Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Performance. The car would become more than just transportation - it would be the foundation to how we would explore the outer reaches of the US and beyond into Canada. We would circumnavigate the USA and visit interesting cities along the way. The cornerstones of our route are:
+Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Performance. The car would become more than just transportation - it would be the foundation to how we would do this cross-country road trip and beyond into Canada. We would circumnavigate the USA and visit interesting cities along the way. The cornerstones of our route are:
 
 * San Diego, CA
 * Key West, FL
@@ -20,7 +20,7 @@ Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Perf
 
 We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this trip.
 
-## The Car: A 2023 Model Y Performance
+## The EV: A 2023 Model Y Performance
 
 This trip was done in a blue 2023 Tesla Model Y Performance (MYP) w/ standard AutoPilot and HW4. When we started, the car had about 1,500 miles on it. We eneded the trip with about 13,000 miles on the odometer.
 
@@ -98,11 +98,18 @@ The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put
 
 We made it a priority to explore the locales on the route. After all, America is a big country with a great mix of rural, urban, and suburban areas. Our trip was not just about clocking miles - it was also about connecting my son with the diversity in this country. This has always been the spirit of the great American road trip. We're simply updating the experience in an EV.
 
-<pleasant surprise through wanderlust, like discovering a festival, or discovering a restaurant gem, or stumbling on something historically significant>
+While we had a planned route, oftentimes we just let serendipity, wanderlust, and chance take over. For example:
 
-<random towns or rotues that we would never have driven to, but the charging network compelled us to do so>
+![Oceanfront Park](assets/images/marathon_oceanfront_park.png)
 
-We took advantage of public transit in large cities such as NYC and DC. The idea is to find a public transit parking with public L2 charging and park there. Then we hop onto the public transit, site see for the day, and come back to the car with a significant charge. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration.
+* In Key West, we found a beautiful park where we had a relaxing breakfast cook out by the sea
+* In Savannah, we ran into the park where Forrest Gump sat (sadly the bench is gone)
+* In DC, we randomly ran into the [Transformers sculpture dispute](https://dcist.com/story/23/05/25/optimus-prime-defends-georgetown-transformers-sculptures/) next to Georgetown University
+* The drive from NYC to Boston looked boring, so we decided on a whim to take the scenic route into Albany through mid-state New York
+* On the Trans-Canadian highway, we found an unforgettably beautiful rest stop along Lake Superior where we dipped our toes in the water
+* In Winnipeg, we stumbled on a cool downtown festival with music, food, and drinks
+
+In large cities such as NYC and DC, we used public transit instead of driving. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration. We find a public transit parking with public L2 charging and park there. Then we hop onto the public transit, site see for the day, and come back to the car with a significant charge. In NYC, for example, we park the EV in a Jersey City commuter train station with a L2 charger. We sight see for the day, and returned to the EV at 90% charge. 
 
 ## Final Thoughts: the great American road trip in an EV, and how father-son learned more about each other
 
