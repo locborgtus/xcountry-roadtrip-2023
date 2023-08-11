@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "A Father-Son, 12,000 Mile EV Road Trip Across the USA"
-description              : foo
+description              : "How a father and son learned to circumnavigate the USA in an EV, and learn about themselves"
 remote_theme             : pages-themes/cayman
 
 plugins:
