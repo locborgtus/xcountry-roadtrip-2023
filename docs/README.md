@@ -12,11 +12,7 @@ Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Perf
 * Northeastern Maine
 * Seattle, WA
 
-<br>
-
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe>
-
-<br>
 
 We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this trip.
 
@@ -105,7 +101,7 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 * In Key West, we found a beautiful park where we had a relaxing breakfast cook out by the sea
 * In Savannah, we ran into the park where Forrest Gump sat (sadly the bench is gone)
 * In DC, we randomly ran into the [Transformers sculpture dispute](https://dcist.com/story/23/05/25/optimus-prime-defends-georgetown-transformers-sculptures/) next to Georgetown University
-* The drive from NYC to Boston looked boring, so we decided on a whim to take the scenic route into Albany through mid-state New York
+* The drive from NYC to Boston looked boring and expensive with tolls, so we decided on a whim to take the scenic route into Albany through mid-state New York
 * On the Trans-Canadian highway, we found an unforgettably beautiful rest stop along Lake Superior where we dipped our toes in the water
 * In Winnipeg, we stumbled on a cool downtown festival with music, food, and drinks
 
@@ -113,8 +109,6 @@ In large cities such as NYC and DC, we used public transit instead of driving. D
 
 ## Final Thoughts: the great American road trip in an EV, and how father-son learned more about each other
 
-<Father and son bonding. I learned about my son, and I hope my son learned about me too. I’m an immigrant with a completely different upbringing my son is experiencing, but I hope the diversity in thoughts would help him.>
+**The EV is a viable and affordable way to experience the great American road trip, but the experience needs to improve**. With the mature Supercharger network and the convenience of AutoPilot, EVs bring a refreshing update to the quintessential American road trip experience. Without a doubt, it is possible to traverse the country in an EV today without range anxiety. The EV camping infrastructure remains a work in progress but it has great potential. EV camping makes the trip much more affordable by eliminating hotel costs and reducing charging time and costs. We hope that the EV infrastructure will one day fully align with our system of 20+ criteria, realizing a complete transformation of the EV road trip experience.
 
-<EVs are viable for roadtrips. In fact, the combination of EV camping, autopilot, and reliability, I would argue EVs are preferred. EVs enhance the great American roadtrip>
-
-<Economically effective way to see the country. Flying and staying at hotels would be cost prohibitive. Plus, you get to wanderlust and get pleasantly surprised>
+**Ultimately, this is about a father and son spending a month together doing what they love.** I learned a lot about my son, such as his profound shyness around strangers. During the trip, I was proud to work with him to conquer this shyness. For example, he managed to confidently order dinner and ice cream in French at Quebec. I hope that amidst the long driving stretches, where the days are long and the roads are vast, our conversations have provided my son an insight into his father's life and personality. I also wish that this trip will resonate as one of the cherished and enduring memories my son carries of his father after I am gone.
