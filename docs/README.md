@@ -92,17 +92,19 @@ The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put
 
 **The biggest problem with EV camping is identifying a good locations.** Using PlugShare, we can usually find free, public L2 chargers to camp overnight. However, the location quality is hit and miss. We’ve had good luck with parks and libraries. But some areas have poor public EV charging infrastructure (looking at you, Ottawa and Montana). With an overnight L2 charger, we wake up with 70% - 100% running Camp Mode all night. We estimate that camping at a free public L2 charger saves us $20 per night and 30 minutes to visit a charger.
 
-**We developed a ranking process using 20+ criteria to rate an EV camping location.** We would browse PlugShare and rank the chargers for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion is this: the EV charging infrastructure is mature to ensure drivers won’t be stranded, but we are far away from chargers with basic amenities. We are even farther away from a good EV camping user experience. I would gladly pay $10+ for a great EV camp spot, and more for food, supplies, and other amenities if available.
+**We developed a ranking process using 20+ criteria to rate an EV camping location.** We would browse PlugShare and rank the location for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion is this: the EV charging infrastructure is mature enough to ensure drivers won’t be stranded, but we are far away from chargers with basic amenities. We are even further away from a good EV camping user experience. I would gladly pay $10+ for a great EV camp spot, and and even more for food, supplies, and other amenities if available.
 
-## Travel: not just about the driving, but a way to see the country
+## Travel: not just about the driving, but to see the country in a different way
 
-We made it a priority to visit the cities on the route. After all, America is a diverse country with a great mix of rural, urban, and suburban areas.
-
-We took advantage of public transit in large cities such as NYC and DC. The idea is to find a public transit parking with public L2 charging and park there. Then we hop onto the public transit, site see for the day, and come back to the car with a significant charge. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration.
+We made it a priority to explore the locales on the route. After all, America is a big country with a great mix of rural, urban, and suburban areas. Our trip was not just about clocking miles - it was also about connecting my son with the diversity in this country. This has always been the spirit of the great American road trip. We're simply updating the experience in an EV.
 
 <pleasant surprise through wanderlust, like discovering a festival, or discovering a restaurant gem, or stumbling on something historically significant>
 
-## Final Thoughts: the great American road trip in an EV, 
+<random towns or rotues that we would never have driven to, but the charging network compelled us to do so>
+
+We took advantage of public transit in large cities such as NYC and DC. The idea is to find a public transit parking with public L2 charging and park there. Then we hop onto the public transit, site see for the day, and come back to the car with a significant charge. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration.
+
+## Final Thoughts: the great American road trip in an EV, and how father-son learned more about each other
 
 <Father and son bonding. I learned about my son, and I hope my son learned about me too. I’m an immigrant with a completely different upbringing my son is experiencing, but I hope the diversity in thoughts would help him.>
 
