@@ -1,16 +1,20 @@
 
 ## Context
 
- I was recently laid-off from my tech job. I realized that amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? A friend reminded me that my son "will only be 12 years old once". My son is interested in geography and is an EV enthusiast like myself, so we decided to do a month-long, great American summer roadtrip while we have the chance.
+I was recently laid-off from my tech job. I realized that amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? My son is interested in geography and is an EV enthusiast like myself, so we decided to do a month-long, great American summer roadtrip while we have the chance. A good friend reminded me that my son "will only be 12 years old once".
 
-Our journey took us across 12,000 miles in 28 days in a 2023 Model Y Performance. The car would become more than just transportation - it would be the foundation to how we would explore the outer reaches of the US and beyond into Canada. We would circumnavigate the USA and visit interesting cities along the way. The cornerstones of our route are:
+Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Performance. The car would become more than just transportation - it would be the foundation to how we would explore the outer reaches of the US and beyond into Canada. We would circumnavigate the USA and visit interesting cities along the way. The cornerstones of our route are:
 
 * San Diego, CA
 * Key West, FL
 * Northeastern Maine
 * Seattle, WA
 
+<br>
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe>
+
+<br>
 
 In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
 
@@ -49,17 +53,22 @@ The MYP is efficient. My efficiency ranges from 275 - 300 W / mile, depending on
 
 ## Charging & Range
 
-We used only Superchargers and public L2 chargers (see EV Camping section below). We typically charge 2-3 times a day, maybe 1 more on really long days.
+We used only Superchargers and public L2 chargers (see EV Camping section below). We typically charge 2-3 times a day, maybe 1 more on really long days. Each charge is between 10 - 20 minutes.
 
-Let me make this clear: there was virtually no range anxiety over the trip. The Supercharger infrastructure along established routes is very mature, and range anxiety is a thing of the past. Simply punch in your destination, and let the navigation plan your charge stops. Follow recommended charging stops, adhere to speed limits, and you’re good to go.
+Let me make this clear: there was no range anxiety in the MYP on this trip. The Tesla Supercharger infrastructure along established routes is very mature, and range anxiety is a thing of the past. Simply punch in your destination, and let the car navigation plan your charge stops. Follow recommended charging stops, adhere to speed limits, and you’re good to go.
 
 So, let’s dispel the EV charging availability myth: An EV can circumnavigate the US easily, today.
 
-The only time I had range anxiety was in North Dakota, where 1) I didn’t follow the recommended route and 2) I went over the speed limit. In that case, I arrived with 3% which is too close for my comfort, especially in a rural area where chargers are sparse. There was also a time when weather took out power for a town, and the Supercharger was also down. Power was restored in 20 minutes, and chargers were back up.
+The only time I had a range concern was in North Dakota, where:
 
-Let’s also dispel the myth for a 500-mile range EV. Personally, the limiting factor is my body, not the car. On a full charge on the highway, the MYP can go 3 hours before the next charge. I don’t want to drive 3 hours without stretching my legs and using the restroom (I can, but it’s tiring and not fun). We also find it interesting to drive into a small town with a Supercharger and experience the locale. So, personally, a 300-mile range EV is enough for me.
+1. I didn’t follow the recommended route
+2. I was speeding
 
-Charging costs can be significant. A rough, back-of-napkin math shows that Supercharging costs similar to driving an efficient hybrid like a Prius or Camry Hybrid. Charging costs can also differ wildly across Superchargers, between $0.27 to $0.46 a kWh. We usually look ahead and check the rates along the route to optimize cost.
+In that case, I arrived with 3% which is too close for my comfort, especially in a rural area where chargers are sparse. There was also a time when weather took out power for a town in North Carolina, and the Supercharger went down with the town. Power was restored in 20 minutes, and chargers were back up.
+
+Let’s also dispel the myth for a 500-mile range EV. The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Once in a while I can do it, but it’s tiring and not fun). We also find it fun to explore small towns with a Supercharger and experience the locale. So, personally, a 300-mile range EV is enough for me.
+
+Charging costs can be significant given the miles traveled. A rough, back-of-napkin math shows that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers, in our experience between $0.27 to $0.46 a kWh. We usually look ahead and check the rates along the route to optimize cost.
 
 We always take advantage of public L2 chargers when we sightsee. If available, this can really help improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
 
