@@ -43,9 +43,9 @@ The trip was divided into 6 legs, which are:
 | 5 | Northwestern US | Winnipeg, MB to Seattle, WA | 1500 |
 | 6 | Western Seaboard | Seattle, WA to Los Angeles, CA | 1500 |
 
-We travel between 400 - 600 miles a day, with some off days where we visit cities on foot. The MYP was comfortable over long distances. Compared to the M3SR, the ride was smoother and visibility was better. The extra room in the MYP allowed us to carry more gear. However, the stability, handling, and efficiency was better in the M3SR.
+We traveled between 400 - 600 miles a day, with some off days where we visit cities on foot. The MYP was comfortable over long distances. Compared to the M3SR, the ride was smoother and visibility was better. The extra room in the MYP allowed us to carry more gear. However, the stability, handling, and efficiency was better in the M3SR.
 
-AutoPilot (AP) did about 70% of the driving and was a huge help. In places like west Texas and Montana where the road was straight and traffic was sparse, AP was active virtually the entire time. AutoPilot lightened the cognitive load and allowed me to cover more distances with less fatigue. I also found it easier to converse with my son with AutoPilit engaged. Fundamentally, AutoPilot made this trip possible.
+We used AutoPilot (AP) for about 70% of the driving and the experience was transformational. In places like west Texas and Montana where the road was straight and traffic was sparse, AP was active virtually the entire time. AutoPilot lightened the cognitive load and allowed me to cover more distances with less fatigue. I also found it easier to converse with my son with AutoPilot engaged. Fundamentally, AutoPilot transformed what would have been a crazy drive into a much more relaxed and enjoyable experience.
 
 The MYP is relatively efficient compared to other EVs. My efficiency ranges from 275 - 300 W / mile, depending on the speed, elevation, and wind direction. This is about 15% less efficient than M3SR. I stayed within 70 - 75 mph for my highway miles. Efficiency plummets in the MYP after 75 mph, so I avoid speeding as much as possible.
 
