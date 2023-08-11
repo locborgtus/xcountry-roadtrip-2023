@@ -20,7 +20,7 @@ Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Perf
 
 We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this trip.
 
-## Car
+## The Car: A 2023 Model Y Performance
 
 This trip was done in a blue 2023 Tesla Model Y Performance (MYP) w/ standard AutoPilot and HW4. When we started, the car had about 1,500 miles on it. We eneded the trip with about 13,000 miles on the odometer.
 
@@ -53,11 +53,15 @@ AutoPilot (AP) did about 70% of the driving and was a huge help. In places like 
 
 The MYP is relatively efficient compared to other EVs. My efficiency ranges from 275 - 300 W / mile, depending on the speed, elevation, and wind direction. This is about 15% less efficient than M3SR. I stayed within 70 - 75 mph for my highway miles. Efficiency plummets in the MYP after 75 mph, so I avoid speeding as much as possible.
 
-## Charging & Range
+## Charging & Range: Plenty of chargers, no range anxiety, so-so costs
 
 We used only Superchargers and public L2 chargers (see EV Camping section below). We charge 2-3 times a day, maybe 1 more on really long driving days. Each charge is between 10 - 20 minutes.
 
-Let me make this clear: there was no range anxiety in the MYP on this trip. The Tesla Supercharger infrastructure along established routes is very mature, and range anxiety is a thing of the past. Simply punch in your destination, and let the car navigation plan your charge stops. Follow recommended charging stops, adhere to speed limits, and you’re good to go.
+| ![car at supercharger in washington](assets/images/car_supercharger.jpeg) |
+|:--:| 
+| *Charging at a busy Supercharger in Ellensburg, Washington* |
+
+**Let me make this clear: there was no range anxiety in the MYP on this trip.** The Tesla Supercharger infrastructure along established routes is very mature, and range anxiety is a thing of the past. Simply punch in your destination, and let the car navigation plan your charge stops. Follow recommended charging stops, adhere to speed limits, and you’re good to go.
 
 So, let’s dispel the EV charger myth: A Tesla EV can easily circumnavigate the US, today.
 
@@ -70,37 +74,35 @@ In that case, I arrived at a charger with 3%. That is too close for my comfort, 
 
 There was also a time when the weather took out a town's power grid in North Carolina, and the Supercharger went down with the town. Power was restored in 20 minutes, and chargers were back up. But I had a great time talking to other people at the charger.
 
-Let’s also dispel the myth for a 500-mile range EV. The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Once in a while I can do it, but it’s tiring and not fun at all).
+**Let’s also dispel the myth for a 500-mile range EV.** The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Once in a while I can do it, but it’s tiring and not fun at all). My son becomes irritable after 2 hours.
 
 We also find it fun to explore small towns with a Supercharger and experience the locale. So, personally, a 300-mile range EV is enough for me.
 
-Charging costs can be significant given the miles traveled. A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.27 to $0.46 per kWh. We usually look ahead and check the rates along the route to optimize cost.
+**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.27 to $0.46 per kWh. We usually look ahead and check the rates along the route to optimize cost.
 
 We always take advantage of public L2 chargers when we sightsee. If available, this can really help improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
 
-## EV Camping
+## EV Camping: Fun and economical, but infrastructure is immature
 
-EV camping is sleeping in the car while using the EV’s AC to maintain temperature.
+EV camping is sleeping in the car, using the EV’s electric power to efficiently run the AC overnight to maintain temperature.
 
-The MYP (or any EV) is fantastic for EV camping. We put the 2 rear seats down, and put bedding over it. Tesla Camp Mode keeps the AC on overnight and maintains a comfortable environment for a good sleep. If we were in an ICE car, the engine would idle the entire night, ticking loudly, and burning fuel. The MYP is quiet and efficient, using only 1% per hour in Camp Mode. The screen also keeps us entertained before bed with Disney+, Netflix, and YouTube. My son had a great time.
+The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put bedding over it, and it fits the two of us comfortably. Tesla Camp Mode maintains a comfortable environment for a good sleep. If we were in an ICE car, the engine would idle the entire night, ticking loudly, and burning fuel. The MYP is quiet and efficient, using only 1% per hour in Camp Mode. The screen also keeps us entertained before bed with Disney+, Netflix, and YouTube. My son had a great time getting extra TV time in.
 
-We camped in the car for nearly the entire trip. For over 10,000 miles, we camped in the car. We only stayed in a hotel after picking up my wife and daughter in the last leg in Seattle with about 1,500 miles remaining on the trip. With EV camping, we reduced our travel budget by 60% from $300 to $125 per day.
+**An EV made it possible to camp in the car for nearly the entire trip, with no hotel stays.** My son and I slept in the car for almost 11,000 miles. We only stayed in a hotel after picking up my wife and daughter in the last leg in Seattle, with about 1,500 miles remaining on the trip. Even then, we managed to fit the 4 of us for a night of EV camping (albeit not comfortably). With EV camping, we eliminated hotel costs and reduced our travel budget by 60% from $300 to $125 per day.
 
-The biggest problem with EV camping is identifying a good locations. My son and I developed a ranking process using 20+ criteria to rate a location. We would browse PlugShare and rank the chargers for EV camping. These criteria varies between working chargers and security, to creature-comfort things like having trash cans, restrooms, and benches. The general conclusion is this: the EV charging infrastructure is mature to ensure drivers won’t be stranded, but we are far, far away from a good EV camping user experience.
+**The biggest problem with EV camping is identifying a good locations.** Using PlugShare, we can usually find free, public L2 chargers to camp overnight. However, the location quality is hit and miss. We’ve had good luck with parks and libraries. But some areas have poor public EV charging infrastructure (looking at you, Ottawa and Montana). With an overnight L2 charger, we wake up with 70% - 100% running Camp Mode all night. We estimate that camping at a free public L2 charger saves us $20 per night and 30 minutes to visit a charger.
 
-Using PlugShare, we can usually find free, public L2 chargers to camp overnight. However, the site quality is hit and miss. Typically, we’ve had good luck with parks and libraries. But some areas have poor public EV charging infrastructure (looking at you, Ottawa and Montana). With an overnight L2 charger, we can wake up with 70% - 100% running Camp Mode all night. We estimate that camping at a free public L2 charger saves us $20 per night and 30 minutes to visit a charger.
+**We developed a ranking process using 20+ criteria to rate an EV camping location.** We would browse PlugShare and rank the chargers for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion is this: the EV charging infrastructure is mature to ensure drivers won’t be stranded, but we are far away from chargers with basic amenities. We are even farther away from a good EV camping user experience. I would gladly pay $10+ for a great EV camp spot, and more for food, supplies, and other amenities if available.
 
-## Travel
+## Travel: not just about the driving, but a way to see the country
 
-We made it a priority to visit the cities on the route. After all, America is a diverse country of rural, urban, and suburban areas.
+We made it a priority to visit the cities on the route. After all, America is a diverse country with a great mix of rural, urban, and suburban areas.
 
 We took advantage of public transit in large cities such as NYC and DC. The idea is to find a public transit parking with public L2 charging and park there. Then we hop onto the public transit, site see for the day, and come back to the car with a significant charge. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration.
 
 <pleasant surprise through wanderlust, like discovering a festival, or discovering a restaurant gem, or stumbling on something historically significant>
 
-I have other travel tips as well. But seeing this is an EV blog, I’ll center it around the car.
-
-## Final Thoughts
+## Final Thoughts: the great American road trip in an EV, 
 
 <Father and son bonding. I learned about my son, and I hope my son learned about me too. I’m an immigrant with a completely different upbringing my son is experiencing, but I hope the diversity in thoughts would help him.>
 
