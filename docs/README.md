@@ -1,5 +1,5 @@
 
-## Context
+## Introduction
 
 I was recently laid-off from my tech job. Amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? My son is interested in geography and is an EV enthusiast like myself, so we decided to do a month-long, great American summer roadtrip while we have the chance.
 
@@ -18,7 +18,7 @@ Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Perf
 
 <br>
 
-In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
+We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
 
 ## Car
 
