@@ -10,9 +10,7 @@ Our journey took us across 12,000 miles in 28 days in a 2023 Model Y Performance
 * Northeastern Maine
 * Seattle, WA
 
-| <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe> |
-|:--:| 
-| *Nearly 12,000 miles in 28 days* |
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe>
 
 
 In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range. That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
