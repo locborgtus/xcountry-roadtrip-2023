@@ -59,6 +59,10 @@ We used only Superchargers and public L2 chargers (see EV Camping section below)
 
 **Let me make this clear: there was no range anxiety in the MYP on this trip.** The Tesla Supercharger infrastructure along established routes is very mature, and range anxiety is a thing of the past. Simply punch in your destination, and let the car navigation plan your charge stops. Follow recommended charging stops, adhere to speed limits, and you’re good to go.
 
+| ![supercharger map in north america](assets/images/supercharger_map.png) |
+|:--:| 
+| *Charging at a busy Supercharger in Ellensburg, Washington* |
+
 So, let’s dispel the EV charger myth: A Tesla EV can easily circumnavigate the US, today.
 
 The only time I had a range concern was in North Dakota, where:
