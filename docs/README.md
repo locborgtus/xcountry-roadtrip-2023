@@ -12,7 +12,7 @@ Our journey took us across 12,000 miles in 28 days in a 2023 Model Y Performance
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe>
 
-In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range. That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
+In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
 
 ## Car
 
@@ -32,18 +32,20 @@ The car was stock except:
 
 The trip was divided into 6 legs, which are:
 
-* Leg 1 - coast to coast: Los Angeles, CA to Key West, FL (3000 miles)
-* Leg 2 - eastern seaboard: Key West, FL to New York City (1500 miles)
-* Leg 3 - New England to French Canada: New York City to Quebec, QC (1000 miles)
-* Leg 4 - across Canada: Quebec, QC to Winnipeg, MB (2000 miles)
-* Leg 5 - northwestern US: Winnipeg, MB to Seattle, WA (1500 miles)
-* Leg 6 - western seaboard: Seattle, WA to Los Angeles, CA (1500 miles)
+| Leg | Description | Start / End Points | Miles |
+| --- | --- | --- | --- |
+| 1 | Coast to Coast | Los Angeles, CA to Key West, FL | 3000 |
+| 2 | Eastern Seaboard | Key West, FL to New York City | 1500 |
+| 3 | New England to French Canada | New York City to Quebec, QC | 1000 |
+| 4 | Across Canada | Quebec, QC to Winnipeg, MB | 2000 |
+| 5 | Northwestern US | Winnipeg, MB to Seattle, WA | 1500 |
+| 6 | Western Seaboard | Seattle, WA to Los Angeles, CA | 1500 |
 
-We do between 400 - 600 miles a day, with some off days where we visit cities on foot. The MYP was comfortable over long distances. Compared to my M3, the ride was smoother and visibility was better. The extra room in the MYP allowed us to carry more gear. However, the stability, handling, and efficiency was better in the M3.
+We travel between 400 - 600 miles a day, with some off days where we visit cities on foot. The MYP was comfortable over long distances. Compared to the M3SR, the ride was smoother and visibility was better. The extra room in the MYP allowed us to carry more gear. However, the stability, handling, and efficiency was better in the M3.
 
-AutoPilot did about 70% of the driving and was a huge help over a long trip. In places like west Texas and Montana, I can be on AP for almost the entire way. Offloading the cognitive focus to AutoPilot allowed me to cover more distances with less fatigue and able to carry better conversations with my son. AutoPilot made this trip possible.
+AutoPilot (AP) did about 70% of the driving and was a huge help. In places like west Texas and Montana where the road was straight and traffic was sparse, AP was active virtually the entire time. AutoPilot lightened the cognitive focus and allowed me to cover more distances with less fatigue. I also found it easier to converse with my son. Fundamentally, AutoPilot made this trip possible.
 
-The MYP is efficient. My efficiency ranges from 275 - 300 W / mile, depending on the speed. This is about 10% less efficient than my Model 3 SR. For the most part, I stayed within 70 - 75 mph. Efficiency drops steeply in the MYP after 75 mph, so I avoid speeding.
+The MYP is efficient. My efficiency ranges from 275 - 300 W / mile, depending on the speed. This is about 15% less efficient than M3SR. I stayed within 70 - 75 mph for my highway miles. Efficiency plummets in the MYP after 75 mph, so I avoid speeding as much as possible.
 
 ## Charging & Range
 
