@@ -18,11 +18,11 @@ Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Perf
 
 <br>
 
-We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
+We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this trip.
 
 ## Car
 
-This trip was done in a blue 2023 Tesla Model Y Performance (MYP) w/ standard AutoPilot and HW4. When we started, the car had about 1,500 miles on it. We eneded up the trip with about 13,000 miles.
+This trip was done in a blue 2023 Tesla Model Y Performance (MYP) w/ standard AutoPilot and HW4. When we started, the car had about 1,500 miles on it. We eneded the trip with about 13,000 miles on the odometer.
 
 The car was stock except:
 
@@ -47,38 +47,42 @@ The trip was divided into 6 legs, which are:
 | 5 | Northwestern US | Winnipeg, MB to Seattle, WA | 1500 |
 | 6 | Western Seaboard | Seattle, WA to Los Angeles, CA | 1500 |
 
-We travel between 400 - 600 miles a day, with some off days where we visit cities on foot. The MYP was comfortable over long distances. Compared to the M3SR, the ride was smoother and visibility was better. The extra room in the MYP allowed us to carry more gear. However, the stability, handling, and efficiency was better in the M3.
+We travel between 400 - 600 miles a day, with some off days where we visit cities on foot. The MYP was comfortable over long distances. Compared to the M3SR, the ride was smoother and visibility was better. The extra room in the MYP allowed us to carry more gear. However, the stability, handling, and efficiency was better in the M3SR.
 
-AutoPilot (AP) did about 70% of the driving and was a huge help. In places like west Texas and Montana where the road was straight and traffic was sparse, AP was active virtually the entire time. AutoPilot lightened the cognitive focus and allowed me to cover more distances with less fatigue. I also found it easier to converse with my son. Fundamentally, AutoPilot made this trip possible.
+AutoPilot (AP) did about 70% of the driving and was a huge help. In places like west Texas and Montana where the road was straight and traffic was sparse, AP was active virtually the entire time. AutoPilot lightened the cognitive load and allowed me to cover more distances with less fatigue. I also found it easier to converse with my son with AutoPilit engaged. Fundamentally, AutoPilot made this trip possible.
 
-The MYP is efficient. My efficiency ranges from 275 - 300 W / mile, depending on the speed. This is about 15% less efficient than M3SR. I stayed within 70 - 75 mph for my highway miles. Efficiency plummets in the MYP after 75 mph, so I avoid speeding as much as possible.
+The MYP is relatively efficient compared to other EVs. My efficiency ranges from 275 - 300 W / mile, depending on the speed, elevation, and wind direction. This is about 15% less efficient than M3SR. I stayed within 70 - 75 mph for my highway miles. Efficiency plummets in the MYP after 75 mph, so I avoid speeding as much as possible.
 
 ## Charging & Range
 
-We used only Superchargers and public L2 chargers (see EV Camping section below). We typically charge 2-3 times a day, maybe 1 more on really long days. Each charge is between 10 - 20 minutes.
+We used only Superchargers and public L2 chargers (see EV Camping section below). We charge 2-3 times a day, maybe 1 more on really long driving days. Each charge is between 10 - 20 minutes.
 
 Let me make this clear: there was no range anxiety in the MYP on this trip. The Tesla Supercharger infrastructure along established routes is very mature, and range anxiety is a thing of the past. Simply punch in your destination, and let the car navigation plan your charge stops. Follow recommended charging stops, adhere to speed limits, and you’re good to go.
 
-So, let’s dispel the EV charging availability myth: An EV can circumnavigate the US easily, today.
+So, let’s dispel the EV charger myth: A Tesla EV can easily circumnavigate the US, today.
 
 The only time I had a range concern was in North Dakota, where:
 
 1. I didn’t follow the recommended route
 2. I was speeding
 
-In that case, I arrived with 3% which is too close for my comfort, especially in a rural area where chargers are sparse. There was also a time when weather took out power for a town in North Carolina, and the Supercharger went down with the town. Power was restored in 20 minutes, and chargers were back up.
+In that case, I arrived at a charger with 3%. That is too close for my comfort, especially in a rural area where chargers are sparse.
 
-Let’s also dispel the myth for a 500-mile range EV. The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Once in a while I can do it, but it’s tiring and not fun). We also find it fun to explore small towns with a Supercharger and experience the locale. So, personally, a 300-mile range EV is enough for me.
+There was also a time when the weather took out a town's power grid in North Carolina, and the Supercharger went down with the town. Power was restored in 20 minutes, and chargers were back up. But I had a great time talking to other people at the charger.
 
-Charging costs can be significant given the miles traveled. A rough, back-of-napkin math shows that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers, in our experience between $0.27 to $0.46 a kWh. We usually look ahead and check the rates along the route to optimize cost.
+Let’s also dispel the myth for a 500-mile range EV. The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Once in a while I can do it, but it’s tiring and not fun at all).
+
+We also find it fun to explore small towns with a Supercharger and experience the locale. So, personally, a 300-mile range EV is enough for me.
+
+Charging costs can be significant given the miles traveled. A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.27 to $0.46 per kWh. We usually look ahead and check the rates along the route to optimize cost.
 
 We always take advantage of public L2 chargers when we sightsee. If available, this can really help improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
 
 ## EV Camping
 
-EV camping is sleeping in the car and using the EV’s AC to maintain temperature.
+EV camping is sleeping in the car while using the EV’s AC to maintain temperature.
 
-The Model Y (or any EV) is fantastic for EV camping. We put the 2 rear seats down, and put bedding over it. Camp Mode keeps the AC on overnight and maintains a comfortable environment for a good sleep. If we were in an ICE car, the engine would idle the entire night, ticking loudly, and burning fuel. The MYP is quiet and efficient, using only 1% per hour in Camp Mode. The screen also keeps us entertained before bed with Disney+, Netflix, and YouTube. My son had a great time.
+The MYP (or any EV) is fantastic for EV camping. We put the 2 rear seats down, and put bedding over it. Tesla Camp Mode keeps the AC on overnight and maintains a comfortable environment for a good sleep. If we were in an ICE car, the engine would idle the entire night, ticking loudly, and burning fuel. The MYP is quiet and efficient, using only 1% per hour in Camp Mode. The screen also keeps us entertained before bed with Disney+, Netflix, and YouTube. My son had a great time.
 
 We camped in the car for nearly the entire trip. For over 10,000 miles, we camped in the car. We only stayed in a hotel after picking up my wife and daughter in the last leg in Seattle with about 1,500 miles remaining on the trip. With EV camping, we reduced our travel budget by 60% from $300 to $125 per day.
 
