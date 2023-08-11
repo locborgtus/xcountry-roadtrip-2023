@@ -1,20 +1,21 @@
 
 ## Context
 
-I was recently laid-off from my tech job. That job was very stressful and I was unable to spend much time with my 12-year-old son. While I consider my next career move, I thought this was a great opportunity to bond with my son before he grows up. He is interested in geography and is an EV enthusiast like myself, so we decided to do this month-long, American summer roadtrip while we have the chance.
+ I was recently laid-off from my tech job. I realized that amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? A friend reminded me that my son "will only be 12 years old once". My son is interested in geography and is an EV enthusiast like myself, so we decided to do a month-long, great American summer roadtrip while we have the chance.
 
-This 11,000 mile trip was done in 28 days in a 2023 Model Y Performance (more details on the car later).
-
-The route hits the 4 outermost points of the USA and through Canada:
+Our journey took us across 12,000 miles in 28 days in a 2023 Model Y Performance. The car would become more than just transportation - it would be the foundation to how we would explore the outer reaches of the US and beyond into Canada. We would circumnavigate the USA and visit interesting cities along the way. The cornerstones of our route are:
 
 * San Diego, CA
 * Key West, FL
 * Northeastern Maine
 * Seattle, WA
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe>
+| <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe> |
+|:--:| 
+| *Nearly 12,000 miles in 28 days* |
 
-We are relatively experienced EV road trippers. We have over 40,000 roadtrip miles in the last 3 years in another EV, a 2019 Model 3 Standard Range. We live in Los Angeles, and have road tripped to places such as Portland OR, Austin TX, and Washington DC in that car.
+
+In the last 3 years, my son and I have over 40,000 miles of road trip miles in a Model 3 Standard Range. That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the related range anxiety and charging station hopping road tripping in an EV. We live in Los Angeles. From there, we have previously visited Portland OR, Austin TX, Washington, DC, and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this cross-country trip.
 
 ## Car
 
