@@ -18,11 +18,11 @@ We are no strangers to EV road tripping. In the last 3 years, my son and I have 
 
 We live in Los Angeles. From there, we have previously visited Portland OR (2000 miles), Austin TX (3000 miles), Washington, DC (5000 miles), and the occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this trip.
 
-## The EV: A 2023 Model Y Performance
+## The EV: A 2023 Tesla Model Y Performance
 
-This trip was done in a blue 2023 Tesla Model Y Performance (MYP) w/ standard AutoPilot and HW4. When we started, the car had about 1,500 miles on it. We eneded the trip with about 13,000 miles on the odometer.
+This trip was done in a blue 2023 Tesla Model Y Performance (MYP) called "Midnight", with standard AutoPilot and HW4. When we started, Midnight had about 1,500 miles on it. We eneded the trip with about 13,000 miles on the odometer.
 
-The car was stock except:
+Midnight was stock except:
 
 * Swapped the 21” Uberturbines with 19” Gemini for efficiency
 * Custom wheel covers
@@ -30,7 +30,7 @@ The car was stock except:
 
 | ![car at ft williams](assets/images/car_ftwilliams.jpeg) |
 |:--:| 
-| *Charging at a public charger in Thunder Bay, ON* |
+| *The car, "Midnight", at a public charger in Thunder Bay, ON, Canada* |
 
 ## Driving: Navigating the Miles
 
