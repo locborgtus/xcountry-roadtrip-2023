@@ -97,7 +97,7 @@ The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put
 **The biggest problem with EV camping is identifying good locations.** Using PlugShare, we can usually find free, public L2 chargers to camp overnight. However, the location quality is hit and miss. We’ve had good luck with parks and libraries. But some areas have poor public EV charging infrastructure (looking at you, Ottawa and Montana). With an overnight L2 charger, we wake up with 70% - 100% charge running Camp Mode all night. We estimate that camping at a free public L2 charger saves us $20 per day in charging costs and 30 minutes to visit a charger.
 
 | ![bucees supercharger](assets/images/bucees_supercharger.png) |
-|:--:| 
+|:--:|
 | *Buc'ees rank in the middle on our 20+ criteria, EV camping rating system* |
 
 **We developed a ranking process using 20+ criteria to rate an EV camping location.** We would browse PlugShare and rank the location for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion: the EV charging infrastructure is mature enough to ensure drivers won’t be stranded, but there are still not enough chargers with basic amenities (For those familiar with Buc'ees, they rank in the middle). In terms of a good EV camping user experience, we are even further away. I would gladly pay $10+ for a great EV camp spot, and would pay even more for food, supplies, and other amenities if available.
@@ -108,7 +108,9 @@ We made it a priority to explore the locales on the route. After all, America is
 
 While we had a planned route, oftentimes we just let serendipity, wanderlust, and chance take over. For example:
 
-![Oceanfront Park](assets/images/marathon_oceanfront_park.png)
+| ![Oceanfront Park](assets/images/marathon_oceanfront_park.png) |
+|:--:|
+| *Ocean view breakfast cook out in Key West, FL* |
 
 * In Key West, we found a beautiful park where we had a relaxing breakfast cook out by the sea
 * In Savannah, we ran into the park where Forrest Gump sat (sadly the bench is gone)
