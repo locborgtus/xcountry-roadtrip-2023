@@ -19,8 +19,6 @@
       <h1 class="project-name">{{ site.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-      {% include share-bar.html %}
-
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
@@ -28,6 +26,8 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+      {% include share-bar.html %}
+
       {{ content }}
 
       <footer class="site-footer">
