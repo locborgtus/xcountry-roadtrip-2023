@@ -1,3 +1,4 @@
+![banner](assets/images/cross_country_roadtrip_route.png)
 
 ## Introduction
 
