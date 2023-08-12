@@ -123,7 +123,7 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 
 In large cities such as NYC and DC, we used public transit instead of driving. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration. We find a public transit parking with public L2 charging and park there. Then we hop onto the public transit, site see for the day, and come back to the car with a significant charge. In NYC, for example, we park the EV in a Jersey City commuter train station with a L2 charger. We sight see for the day, and returned to the EV at 90% charge. 
 
-## Final Thoughts: the great American road trip in an EV, and how father-son learned more about each other
+## Final Thoughts: The great American road trip is viable in an EV, and how father-son learned more about each other
 
 **The EV is a viable and affordable way to experience the great American road trip, but the experience is still improving**. With the mature Supercharger network and the convenience of AutoPilot, EVs bring a refreshing update to the quintessential American road trip experience. Without a doubt, it is possible to traverse the country in an EV today without range anxiety. The EV camping infrastructure remains a work in progress but it has great potential. EV camping makes the trip much more affordable by eliminating hotel costs and reducing charging time and costs. We hope that the EV infrastructure will one day fully align with our system of 20+ criteria, realizing a complete transformation of the EV road trip experience.
 
