@@ -21,7 +21,7 @@ We live in Los Angeles. From there, we have previously visited Portland OR (2000
 
 ## The EV: A 2023 Tesla Model Y Performance
 
-This trip was done in a blue 2023 Tesla Model Y Performance (MYP) called "Midnight", with standard AutoPilot and HW4. When we started, Midnight had about 1,500 miles on it. We eneded the trip with about 13,000 miles on the odometer.
+This trip was done in a blue 2023 Tesla Model Y Performance (MYP) called "Midnight", with standard AutoPilot and HW4. When we started, Midnight had about 1,500 miles on it. We ended the trip with about 13,000 miles on the odometer.
 
 Midnight was stock except:
 
@@ -75,7 +75,7 @@ The only time I had a range concern was in North Dakota, where:
 
 In that case, I arrived at a charger with 3%. That is too close for my comfort, especially in a rural area where chargers are sparse.
 
-There was also a time when the weather took out a town's power grid in North Carolina, and the Supercharger went down with the town. Power was restored in 20 minutes, and chargers were back up. But I had a great time talking to other people at the charger.
+There was also a time when the weather took out a town's power grid in North Carolina, and the Supercharger went down with the town. Power was restored in 20 minutes, and chargers were back up. I had a great time talking to other people stuck at the charger.
 
 **Let’s also dispel the myth for a 500-mile range EV.** The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Once in a while I can do it, but it’s tiring and not fun at all). My son becomes irritable after 2 hours.
 
@@ -119,6 +119,7 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 * In Savannah, we ran into the park where Forrest Gump sat (sadly the bench is gone)
 * In DC, we randomly ran into the [Transformers sculpture dispute](https://dcist.com/story/23/05/25/optimus-prime-defends-georgetown-transformers-sculptures/) next to Georgetown University
 * The drive from NYC to Boston looked boring and expensive with tolls, so we decided on a whim to take the scenic route into Albany through mid-state New York
+* On the way to Toronto, ON and Richmond, VA, we met folks at the Supercharger who gave us great dinner recommendations
 * On the Trans-Canadian highway, we found an unforgettably beautiful rest stop along Lake Superior where we dipped our toes in the water
 * In Winnipeg, we stumbled on a cool downtown festival with music, food, and drinks
 
