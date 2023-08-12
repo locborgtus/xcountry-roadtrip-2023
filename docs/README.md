@@ -5,7 +5,7 @@ I was recently laid-off from my tech job. Amidst the hustle of that job, I had m
 
 A good friend reminded me that, after all, my son "will only be 12 years old once".
 
-Our journey took us across nearly 12,000 miles in 28 days in a 2023 Model Y Performance. The car would become more than just transportation - it would be the foundation to how we would do this cross-country road trip and beyond into Canada. We would circumnavigate the USA and visit interesting cities along the way. The cornerstones of our route are:
+Our journey took us across nearly 12,000 miles in 28 days in a 2023 Tesla Model Y Performance. The car would become more than just transportation - it would be the foundation to how we would do this cross-country road trip and beyond into Canada. We would circumnavigate the USA and visit interesting cities along the way. The cornerstones of our route are:
 
 * San Diego, CA
 * Key West, FL
