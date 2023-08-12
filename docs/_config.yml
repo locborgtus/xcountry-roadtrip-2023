@@ -2,6 +2,7 @@
 title                    : "A Father-Son, 12,000 Mile EV Road Trip Across the USA"
 description              : "How a father and son circumnavigated the USA in an EV, and learned about each other"
 remote_theme             : pages-themes/cayman
+email                    : simon.wong.swg@gmail.com
   
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
