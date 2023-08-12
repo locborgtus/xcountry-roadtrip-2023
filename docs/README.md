@@ -82,7 +82,7 @@ We also find it fun to explore small towns with a Supercharger and experience th
 
 **Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.27 to $0.46 per kWh. We usually look ahead and check the rates along the route to optimize cost.
 
-| ![partial charging stats](assets/images/charging_stats.PNG =x100) |
+| ![partial charging stats](assets/images/charging_stats.PNG) |
 |:--:|
 | *Trip charging stats: about 30% free L2 public charging* |
 
