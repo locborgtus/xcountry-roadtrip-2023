@@ -100,11 +100,11 @@ The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put
 
 | ![bucees supercharger](assets/images/bucees_supercharger.png) |
 |:--:|
-| *Buc'ees rank in the middle on our 20+ criteria, EV camping rating system* |
+| *Buc'ees rank in the middle on our 20+ criteria rating system* |
 
 **We developed a ranking process using 20+ criteria to rate an EV camping location.** We would browse PlugShare and rank the location for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion: the EV charging infrastructure is mature enough to ensure drivers won’t be stranded, but there are still not enough chargers with basic amenities (For those familiar with Buc'ees, they rank in the middle). In terms of a good EV camping user experience, we are even further away. I would gladly pay $10+ for a great EV camp spot, and would pay even more for food, supplies, and other amenities if available.
 
-## Travel: not just about the driving, but to see the country in a different way
+## Travel: not just about the driving, but seeing the country in a different way
 
 We made it a priority to explore the locales on the route. After all, America is a big country with a great mix of rural, urban, and suburban areas. Our trip was not just about clocking miles - it was also about connecting my son with the diversity in this country. This has always been the spirit of the great American road trip. We're simply updating the experience in an EV.
 
