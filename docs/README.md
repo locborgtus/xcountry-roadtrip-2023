@@ -13,7 +13,9 @@ Our journey took us across nearly 12,000 miles in 28 days in a 2023 Tesla Model 
 * Northeastern Maine
 * Seattle, WA
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="800" height="600"></iframe>
+<p style="text-align: center">
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wy6ZdUxPpWyasL6SZ00KsRx0tCBxOVg&ehbc=2E312F" width="100%" height="600"></iframe>
+</p>
 
 We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the intricacies of road tripping in an EV, such as the range anxiety and charging station hopping. (My son wants to shout out to [Kyle at Out of Spec](https://twitter.com/itskyleconner) for the inspiration!)
 
