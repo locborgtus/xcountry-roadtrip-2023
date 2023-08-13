@@ -56,7 +56,7 @@ The MYP is relatively efficient, ranging between 275 - 300 W / mile. Efficiency 
 
 ## Charging & Range: Plenty of chargers, no range anxiety, so-so costs
 
-We used only Superchargers and public L2 chargers (see EV Camping section below). We charge 2-3 times a day, maybe 1 more on really long driving days. Each charge is between 10 - 20 minutes.
+We used only Superchargers and public L2 chargers (see EV Camping section below). We charge 2-3 times a day, maybe 1 more on long driving days. Each charge is between 10 - 20 minutes.
 
 | ![car at supercharger in washington](assets/images/car_supercharger.jpeg) |
 |:--:| 
@@ -83,7 +83,7 @@ There was also a time when the weather took out a town's power grid in North Car
 
 We also find it fun to explore small towns with a Supercharger and experience the locale. Personally, a 300-mile range EV is enough for me.
 
-**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. We usually look ahead and check the rates along the route to optimize cost.
+**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. Interestingly, charging costs usually tracks the local gasoline price (i.e. if gasoline is expensive in the area, charging cost is higher too). We try to look ahead and check the charging rates at multiple chargers along the route to optimize cost.
 
 | ![partial charging stats](assets/images/charging_stats.PNG) |
 |:--:|
