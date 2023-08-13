@@ -81,7 +81,7 @@ There was also a time when the weather took out a town's power grid in North Car
 
 We also find it fun to explore small towns with a Supercharger and experience the locale. Personally, a 300-mile range EV is enough for me.
 
-**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.27 to $0.46 per kWh. We usually look ahead and check the rates along the route to optimize cost.
+**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. We usually look ahead and check the rates along the route to optimize cost.
 
 | ![partial charging stats](assets/images/charging_stats.PNG) |
 |:--:|
@@ -89,7 +89,7 @@ We also find it fun to explore small towns with a Supercharger and experience th
 
 We agressively took advantage of public L2 chargers when we sightsee. If available, this can really help improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
 
-## EV Camping: Fun and economical, but infrastructure is immature
+## EV Camping: Fun and economical, but infrastructure is still evolving
 
 EV camping is sleeping in the car, using the EV’s electric power to efficiently run the AC overnight to maintain temperature.
 
@@ -107,7 +107,7 @@ The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put
 
 ## Travel: not just about the driving, but seeing the country in a different way
 
-We made it a priority to explore the locales on the route. After all, America is a big country with a great mix of rural, urban, and suburban areas. Our trip was not just about clocking miles - it was also about connecting my son with the diversity in this country. This has always been the spirit of the great American road trip. We're simply updating the experience in an EV.
+We made it a priority to explore the locales on the route. After all, America is a big country with a great mix of rural, urban, and suburban areas. Our trip was not just about clocking miles - it was also about connecting my son with everything this country has to offer. This has always been the spirit of the great American road trip. We're simply updating the experience in an EV.
 
 While we had a planned route, oftentimes we just let serendipity, wanderlust, and chance take over. For example:
 
@@ -117,7 +117,7 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 
 | ![Rossport Rest Stop](assets/images/lake_superior.png) |
 |:--:|
-| *Rossport Rest Stop next to lake Superior, ON* |
+| *Rossport Rest Stop next to Lake Superior, ON* |
 
 * In Key West, we found a beautiful park where we had a relaxing breakfast cook out by the sea
 * In Savannah, we ran into the park where Forrest Gump sat (sadly the bench is gone)
@@ -125,11 +125,12 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 * The drive from NYC to Boston looked boring and expensive with tolls, so we decided on a whim to take the scenic route into Albany through mid-state New York
 * On the way to Toronto, ON and Richmond, VA, we met folks at the Supercharger who gave us great dinner recommendations
 * On the Trans-Canadian highway, we found an unforgettably beautiful rest stop along Lake Superior where we dipped our toes in the water
+* While EV camping in Thunder Bay, ON, a thunderstorm passed overnight. There was lightning and thunder every 15 seconds for 30 minutes, that lit up the sky while rain poured on the car.
 * In Winnipeg, we stumbled on a cool downtown festival with music, food, and drinks
 
-In large cities such as NYC and DC, we used public transit instead of driving. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration. We find a public transit parking with public L2 charging, park, then hop onto the public transit and sightsee for the day. When we returned to the car, it would gain a significant charge. In NYC, for example, we park the EV in a Jersey City commuter train station with a L2 charger. When we returned, the car gained a 50% charge. 
+In large cities such as NYC and DC, we used public transit instead of driving. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration. We would find a public transit parking with L2 charging, park, then hop onto the transit and sightsee for the day. When we returned to the car, it would gain a significant charge. In NYC, for example, we park the EV in a Jersey City commuter train station with a L2 charger. When we returned, the car gained a 50% charge. 
 
-## Final Thoughts: The great American road trip is viable and fun in an EV, and how father-son learned more about each other
+## Final Thoughts: The great American road trip is viable and fun in an EV, and how father and son learned more about each other
 
 **The EV is a viable and affordable way to experience the great American road trip, but the experience is still improving**. With the mature Supercharger network and the convenience of AutoPilot, EVs bring a refreshing update to the quintessential American road trip experience. Without a doubt, it is possible to traverse the country in an EV today without range anxiety. The EV camping infrastructure remains a work in progress but it has great potential. EV camping makes the trip much more affordable by eliminating hotel costs and reducing charging time and costs. We hope that the EV infrastructure will one day fully align with our system of 20+ criteria, realizing a complete transformation of the EV road trip experience.
 
