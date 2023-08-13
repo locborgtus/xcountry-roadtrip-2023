@@ -139,7 +139,7 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 * The drive from NYC to Boston looked boring and expensive with tolls, so we decided on a whim to take the scenic route into Albany through mid-state New York
 * On the way to Toronto, ON and Richmond, VA, we met folks at the Supercharger who gave us great dinner recommendations
 * On the Trans-Canadian highway, we found an unforgettably beautiful rest stop along Lake Superior where we dipped our toes in the water
-* While EV camping in Thunder Bay, ON, a thunderstorm passed overnight. There was lightning and thunder every 15 seconds for 30 minutes, that lit up the sky while rain poured on the car.
+* While EV camping in Thunder Bay, ON, a thunderstorm passed overnight. There was lightning and thunder every 15 seconds for 30 minutes that lit up the night sky while rain poured on the car.
 * In Winnipeg, we stumbled on a cool downtown festival with music, food, and drinks
 
 In large cities such as NYC and DC, we used public transit instead of driving. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration. We would find a public transit parking with L2 charging, park, then hop onto the transit and sightsee for the day. When we returned to the car, it would gain a significant charge. In NYC, for example, we park the EV in a Jersey City commuter train station with a L2 charger. When we returned, the car gained a 50% charge. 
