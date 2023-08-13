@@ -54,7 +54,7 @@ We traveled between 400 - 600 miles a day, with some off days where we visit cit
 
 The MYP is relatively efficient, ranging between 275 - 300 W / mile. Efficiency largely depends on the speed, elevation, and wind direction. This is about 15% less efficient than M3SR. I stayed within 70 - 75 mph for my highway miles. Efficiency plummets in the MYP after 75 mph, so I avoid speeding as much as possible.
 
-## Charging & Range: Plenty of chargers, no range anxiety, so-so costs
+## Charging & Range: Supercharger network is great, no range anxiety, so-so costs
 
 We used only Superchargers and public L2 chargers (see EV Camping section below). We charge 2-3 times a day, maybe 1 more on long driving days. Each charge is between 10 - 20 minutes.
 
@@ -83,7 +83,7 @@ There was also a time when the weather took out a town's power grid in North Car
 
 We also find it fun to explore small towns with a Supercharger and experience the locale. Personally, a 300-mile range EV is enough for me.
 
-**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. Interestingly, charging costs usually tracks the local gasoline price (i.e. if gasoline is expensive in the area, charging cost is higher too). We try to look ahead and check the charging rates at multiple chargers along the route to optimize cost.
+**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Charging takes up about 50% of our daily travel budget. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. Interestingly, charging costs usually tracks the local gasoline price (i.e. if gasoline is expensive in the area, charging cost is higher too). We try to look ahead and check the charging rates at multiple chargers along the route to optimize cost.
 
 | ![partial charging stats](assets/images/charging_stats.PNG) |
 |:--:|
@@ -135,5 +135,7 @@ In large cities such as NYC and DC, we used public transit instead of driving. D
 ## Final Thoughts: The great American road trip is viable and fun in an EV, and how father and son learned more about each other
 
 **The EV is a viable and affordable way to experience the great American road trip, but the experience is still improving**. With the mature Supercharger network and the convenience of AutoPilot, EVs bring a refreshing update to the quintessential American road trip experience. Without a doubt, it is possible to traverse the country in an EV today without range anxiety. The EV camping infrastructure remains a work in progress but it has great potential. EV camping makes the trip much more affordable by eliminating hotel costs and reducing charging time and costs. We hope that the EV infrastructure will one day fully align with our system of 20+ criteria, realizing a complete transformation of the EV road trip experience.
+
+Thank you, Tesla, for revolutionizing the auto industry and making this trip possible.
 
 **Ultimately, this is about a father and son spending a month together doing what they love.** I learned a lot about my son, such as his likes and dislikes and his profound shyness around strangers. During the trip, I was proud to work with him to conquer this shyness. In Quebec, he managed to confidently order dinner and ice cream in French. I hope that amidst the long driving stretches, where the days are long and the roads are vast, our conversations have provided my son an insight into his father's life and personality. I also wish that this trip will resonate as one of the cherished and enduring memories my son carries of his father after I am gone.
