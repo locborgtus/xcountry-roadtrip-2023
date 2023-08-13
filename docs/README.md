@@ -19,7 +19,7 @@ Our journey took us across nearly 12,000 miles in 28 days in a 2023 Tesla Model 
 
 We are no strangers to EV road tripping. In the last 3 years, my son and I have over 40,000 road trip miles in a Model 3 Standard Range (M3SR). That was our preferred method of travel during the pandemic when the risk of flying was high. Thus, we are already familiar with the intricacies of road tripping in an EV, such as the range anxiety and charging station hopping. (My son wants to shout out to [Kyle at Out of Spec](https://twitter.com/itskyleconner) for the inspiration!)
 
-We live in Los Angeles. From there, we have previously visited Portland OR (2000 miles), Austin TX (3000 miles), Washington, DC (5000 miles). We also do an occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this trip.
+We live in Los Angeles. From there, we have previously visited Portland OR (2000 miles), Denver CO (2000 miles), Austin TX (3000 miles), and Washington, DC (5000 miles). We also do an occassional weekend trip to Las Vegas and northern California. So we were already mentally and logistically prepared for this trip.
 
 ## The EV: A 2023 Tesla Model Y Performance
 
