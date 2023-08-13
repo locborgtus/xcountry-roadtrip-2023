@@ -37,7 +37,7 @@ Midnight was stock except:
 
 ## Driving: Navigating the Miles
 
-The trip was divided into 6 legs, which are:
+The trip is divided into 6 legs, which are:
 
 | Leg | Description | Start / End Points | Miles |
 | --- | --- | --- | --- |
@@ -64,13 +64,9 @@ We used only Superchargers and public L2 chargers (see EV Camping section below)
 
 **Let me make this clear: there was no range anxiety in the MYP on this trip.** The Tesla Supercharger infrastructure along established routes is very mature. I felt no range anxiety, because there are usually a charger within 50 - 75 miles no matter where I am on the route. I simply punch in my destination for the day, and let the car navigation plan your charge stops. I follow the recommended charging stops, adhere to speed limits, and I arrive very close to the predicted charge level at the stop. This wasn't always true, especially before Tesla navigation accounted for wind speed.
 
-<div align="center">
-
 | ![supercharger map in north america](assets/images/supercharger_map.png) |
 |:--:| 
 | *Superchargers in the US and Canada during the trip* |
-
-</div>
 
 **So, let’s dispel the EV charger myth: A Tesla EV can easily circumnavigate the US, today.**
 
@@ -89,13 +85,9 @@ We also find it fun to explore small towns with a Supercharger and experience th
 
 **Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Charging takes up about 50% of our daily travel budget. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. Interestingly, charging costs usually tracks the local gasoline price (i.e. if gasoline is expensive in the area, charging cost is higher too). We try to look ahead and check the charging rates at multiple chargers along the route to optimize cost.
 
-<div align="center">
-
 | ![partial charging stats](assets/images/charging_stats.PNG) |
 |:--:|
 | *Trip charging stats: about 30% free L2 public charging* |
-
-</div>
 
 We agressively took advantage of public L2 chargers when we sightsee. If available, this can really help improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
 
@@ -109,13 +101,9 @@ The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put
 
 **The biggest problem with EV camping is identifying good locations.** Using PlugShare, we can usually find free, public L2 chargers to camp overnight. However, the location quality is hit and miss. We’ve had good luck with parks and libraries. But some areas have poor public EV charging infrastructure (looking at you, Ottawa and Montana). With an overnight L2 charger, we wake up with 70% - 100% charge running Camp Mode all night. By camping at a free public L2 charger, we save about $20 - $25 per day in charging costs and 30 minutes to visit a charger.
 
-<div align="center">
-
 | ![bucees supercharger](assets/images/bucees_supercharger.png) |
 |:--:|
 | *Buc'ees rank in the middle on our 20+ criteria rating system* |
-
-</div>
 
 **We developed a ranking process using 20+ criteria to rate an EV camping location.** We browse PlugShare and rank the locations for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion: the EV charging infrastructure is mature enough to ensure drivers won’t be stranded, but there are still not enough chargers with basic amenities (For those familiar with Buc'ees, they rank in the middle). In terms of a good EV camping user experience, we are even further away. I would gladly pay $10+ for a great EV camp spot, and would pay even more for food, supplies, and other amenities if available.
 
