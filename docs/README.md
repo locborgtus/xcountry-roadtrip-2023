@@ -79,7 +79,7 @@ In that case, I arrived at a charger with 3%. That is too close for my comfort, 
 
 There was also a time when the weather took out a town's power grid in North Carolina, and the Supercharger went down with the town (interestingly, all the gas stations in the area went down as well). Power was restored in 20 minutes, and chargers were back up. I had a great time talking to other people stuck at the charger.
 
-**Let’s also dispel the myth for a 500-mile range EV.** The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Occasionally, I can do it. But it’s tiring and not fun at all). My son becomes irritable after 2 hours.
+**Let’s also dispel the myth for a 500-mile range EV.** The real limiting factor is my body, not the car. On a full charge, the MYP can travel 3 hours before the next charge stop on the highway. Personally, I don’t want to drive 3 hours without stretching my legs and using the restroom (Occasionally, I can do it. But it’s tiring and not fun at all). My son becomes irritable after 2 hours. A pit stop every 2 hours or so is welcomed to keep the trip fun and relaxed.
 
 We also find it fun to explore small towns with a Supercharger and experience the locale. Personally, a 300-mile range EV is enough for me.
 
