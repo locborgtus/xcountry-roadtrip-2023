@@ -83,7 +83,7 @@ There was also a time when the weather took out a town's power grid in North Car
 
 We also find it fun to explore small towns with a Supercharger and experience the locale. Personally, a 300-mile range EV is enough for me.
 
-**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Charging takes up about 50% of our daily travel budget. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. Interestingly, charging costs usually tracks the local gasoline price (i.e. if gasoline is expensive in the area, charging cost is higher too). We try to look ahead and check the charging rates at multiple chargers along the route to optimize cost.
+**Charging costs can be significant given the miles traveled.** A rough, back-of-napkin math suggests that Supercharging costs are similar to driving an efficient hybrid like a Prius or Camry Hybrid. Supercharging costs can differ wildly across Superchargers. In our experience, we have seen between $0.22 to $0.46 per kWh. Interestingly, charging costs usually tracks the local gasoline price (i.e. if gasoline is expensive in the area, charging cost is higher too). We try to look ahead and check the charging rates at multiple chargers along the route to optimize cost. Afterall, charging takes around 50% of our daily travel budget.
 
 | ![partial charging stats](assets/images/charging_stats.PNG) |
 |:--:|
