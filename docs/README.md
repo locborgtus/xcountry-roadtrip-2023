@@ -89,7 +89,7 @@ We also find it fun to explore small towns with a Supercharger and experience th
 |:--:|
 | *Trip charging stats: about 30% free L2 public charging* |
 
-We agressively took advantage of public L2 chargers when we sightsee. If available, this can really help improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
+We agressively took advantage of public L2 chargers when we sightsee. If available, this can significantly improve range and cut time and costs. For example, we identified a public L2 charger in the heart of Boston. We went sightseeing on the Freedom Trail for the day, and the car gained nearly 30% and allowed us to skip a Supercharger on the way to Maine.
 
 ## EV Camping: Fun and economical, but infrastructure is still evolving
 
