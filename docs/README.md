@@ -130,7 +130,7 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 * While EV camping in Thunder Bay, ON, a thunderstorm passed overnight. There was lightning and thunder every 15 seconds for 30 minutes that lit up the night sky while rain poured on the car.
 * In Winnipeg, we stumbled on a cool downtown festival with music, food, and drinks
 
-In large cities such as NYC and DC, we used public transit instead of driving. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration. We would find a public transit parking with L2 charging, park, then hop onto the transit and sightsee for the day. When we returned to the car, it would gain a significant charge. In NYC, for example, we park the EV in a Jersey City commuter train station with a L2 charger. When we returned, the car gained a 50% charge. 
+In large cities such as NYC and DC, we used public transit instead of driving. Driving and parking in a city is slow and frustrating, and public transit works much better for urban exploration. We would find a public transit parking with L2 charging, then hop onto the transit and sightsee for the day. When we returned to the car, it would gain a significant charge. In NYC, for example, we park the EV in a Jersey City commuter train station with a L2 charger. When we returned, the car gained a 50% charge. 
 
 ## Final Thoughts: The great American road trip is viable and fun in an EV, and how father and son learned more about each other
 
