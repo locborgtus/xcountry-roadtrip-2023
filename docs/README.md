@@ -105,7 +105,7 @@ The MYP (or any EV) is fantastic for EV camping. We put the rear seats down, put
 |:--:|
 | *Buc'ees rank in the middle on our 20+ criteria rating system* |
 
-**We developed a ranking process using 20+ criteria to rate EV charging locations.** We browse PlugShare and rank the locations for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion: the EV charging infrastructure is mature enough to ensure drivers won’t be stranded, but there are still not enough chargers with basic amenities (For those familiar with Buc'ees, they rank in the middle). In terms of a good EV camping user experience, we are even further away. I would gladly pay $10+ for a great EV camp spot, and would pay even more for food, supplies, and other amenities if available.
+**We developed a ranking process using 20+ criteria to rate EV charging locations.** We browse PlugShare and rank the locations for EV camping. These criteria include critical things like working chargers and security, to creature-comfort things like trash cans, restrooms, and benches. The general conclusion: the EV charging infrastructure is mature enough to ensure drivers won’t be stranded, but there are still not enough chargers with basic amenities like convenient and clean restrooms (For those familiar with Buc'ees, they rank in the middle). In terms of a good EV camping user experience, we are even further away. I would gladly pay $10+ for a great EV camp spot, and would pay even more for food, supplies, and other amenities if available.
 
 ## Travel: not just about the driving, but seeing the country in a different way
 
