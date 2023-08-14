@@ -123,6 +123,14 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 |:--:|
 | *Rossport Rest Stop next to Lake Superior, ON* |
 
+| ![Rest Stop Cookout](assets/images/cookout.jpeg) |
+|:--:|
+| *Morning breakfast cookout at a rest stop* |
+
+| ![Transformers](assets/images/trasnformers.jpeg) |
+|:--:|
+| *Transformers safeguarding a neighborhood next to Georgetown University in DC* |
+
 * In Key West, we found a beautiful park where we had a relaxing breakfast cookout by the seashore
 * In Savannah, we ran into the park where Tom Hanks sat as Forrest Gump (sadly the bench is gone)
 * In DC, we randomly ran into the [Transformers sculpture dispute](https://dcist.com/story/23/05/25/optimus-prime-defends-georgetown-transformers-sculptures/) next to Georgetown University
