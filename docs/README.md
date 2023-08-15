@@ -1,5 +1,7 @@
 ![banner](assets/images/cross_country_roadtrip_route.png)
 
+Date: 8/15/23
+
 ## Introduction
 
 I was recently laid-off from my tech job. Amidst the hustle of that job, I had missed out on precious moments with my 12-year-old son. The constant stress had kept me away from my family. As I think about my next career move, I had an idea: why not take a moment to connect with my son in a way that would create unforgettable memories? My son is interested in geography and US history. He is also an EV enthusiast like myself. Thus, we decided to do a month-long, great American summer roadtrip while we have the opportunity.
