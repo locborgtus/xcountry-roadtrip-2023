@@ -75,7 +75,7 @@ The only time I had a range concern was in North Dakota, where:
 1. I deviated from the recommended route
 2. I was speeding
 
-In that case, I arrived at a charger with 3%. That is too close for my comfort, especially in a rural area where chargers are sparse.
+In that case, I arrived at a charger with 3%. That was too close for my comfort, especially in a rural area where chargers were sparse.
 
 There was also a time when the weather took out a town's power grid in North Carolina, and the Supercharger went down with the town (interestingly, all the gas stations in the area went down as well). Power was restored in 20 minutes, and chargers were back up. I had a great time talking to other people stuck at the charger.
 
@@ -103,13 +103,13 @@ We made it a priority to keep good hygiene. When we EV camp, showers are harder 
 
 **The biggest problem with EV camping is identifying good locations.** Using PlugShare, we found free, public L2 chargers to camp overnight. However, the location quality is hit and miss. We’ve had good luck with parks and libraries. But some areas have poor public EV charging infrastructure (looking at you, Ottawa and Montana). With an overnight L2 charger, we would wake up with 70% - 100% charge running Camp Mode all night. By EV camping at a free public L2 charger, we saved $20 - $25 per day in charging costs and 30 minutes in visiting a charger.
 
-**We developed a ranking system using 20+ criteria to rate EV charging locations.** We browsed PlugShare and ranked the locations for EV camping. These criteria encompassed fundamental factors like charger functionality and good security, and extended to finer comfort amenities like trash cans, restrooms, and benches. The general conclusion: the EV charging infrastructure is mature enough to ensure drivers are not stranded, but there are still not enough chargers with basic amenities like convenient and clean restrooms to fulfill the basic road trip experience.
+**We developed a ranking system using 20+ criteria to rate EV charging locations.** We browsed PlugShare and ranked the locations for EV camping. These criteria include fundamental factors like charger functionality and good security, and extended to finer comfort amenities like trash cans, restrooms, and benches. The general conclusion: the EV charging infrastructure is mature enough to ensure drivers are not stranded, but there are still not enough chargers with basic amenities fulfill the basic road trip experience.
 
 | ![bucees supercharger](assets/images/bucees_supercharger.png) |
 |:--:|
 |For those familiar with [Buc-ee's](https://buc-ees.com), they rank in the middle in our 20+ criteria charger ranking system.|
 
-We are far away from a good EV camping infrastructure that provides a good experience. I would gladly pay $10+ for a great EV camp location, and would pay even more for food, supplies, and other amenities if available. It is more fun and better value proposition than a typical hotel stay.
+We are far away from an infrastructure that provides a EV camping good experience. I would gladly pay $10+ for a great EV camp location, and would pay even more for food, supplies, and other amenities if available. It is more fun and better value proposition than a typical hotel stay.
 
 ## Travel: not just about the driving, but seeing the country in a different way
 
@@ -127,7 +127,7 @@ While we had a planned route, oftentimes we just let serendipity, wanderlust, an
 
 | ![Rest Stop Cookout](assets/images/cookout.jpeg) |
 |:--:|
-| *Morning breakfast cookout at a rest stop* |
+| *Morning breakfast cookout at a rest stop in Montana* |
 
 | ![Transformers](assets/images/trasnformers.jpeg) |
 |:--:|
@@ -146,8 +146,8 @@ In large cities such as NYC and DC, we used public transit instead of driving. D
 
 ## Final Thoughts: The great American road trip is viable and fun in an EV, and how father and son learned more about each other
 
-**The EV is a viable and affordable way to experience the great American road trip, but the experience is still improving**. With the mature Supercharger network and the convenience of AutoPilot, EVs bring a refreshing update to the quintessential American road trip experience. Without a doubt, it is possible to traverse the country in an EV today without range anxiety. The EV camping infrastructure remains a work in progress but it has great potential. EV camping makes the trip much more affordable by eliminating hotel costs and reducing charging time and costs. We hope that the EV infrastructure will one day fully align with our system of 20+ criteria, realizing a complete transformation of the EV road trip experience.
+**The EV is a viable and affordable way to experience the great American road trip, but the experience is still improving**. With the mature Supercharger network and the convenience of AutoPilot, EVs bring a refreshing update to the quintessential American road trip experience. Without a doubt, it is possible to traverse the country in an EV today with minimal range anxiety. The EV camping infrastructure remains a work in progress but it has great potential. EV camping makes the trip much more affordable by eliminating hotel costs and reducing charging time and costs. We hope that the EV infrastructure will one day fully align with our system of 20+ criteria, realizing a complete transformation of the EV road trip experience.
 
 Thank you, Tesla, for revolutionizing the auto industry and making this trip possible.
 
-**Ultimately, this is about a father and son spending a month together doing what they love.** I learned a lot about my son, such as his likes, dislikes, and his profound shyness around strangers. During the trip, I was proud to work with him to conquer this shyness. In Quebec, he picked up a few phrases of French from an app, and managed to confidently order dinner and ice cream. It was rewarding, as a father, to see my son grow during the trip. I hope that amidst the long driving stretches, where the days were long and the roads were vast, our conversations have provided my son an insight into his father's life and personality. I also wish that this trip will resonate as one of the cherished and enduring memories my son carries of his father after I am gone.
+**Ultimately, this is about a father and son spending a month together doing what they love.** I learned a lot about my son, such as his likes, dislikes, and his profound shyness around strangers. During the trip, I was proud to work with him to conquer this shyness. In Quebec, he picked up a few French phrases from an app, and managed to confidently order dinner and ice cream. It was rewarding, as a father, to see my son grow during the trip. I hope that amidst the long driving stretches, where the days were long and the roads were vast, our conversations have provided my son an insight into his father's life and personality. I also wish that this trip will resonate as one of the cherished and enduring memories my son carries of his father after I am gone.
